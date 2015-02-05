@@ -1,0 +1,29 @@
+
+
+body {
+	font-size: 18px; 
+	background-color: #B2F0B2;
+}
+
+.myClass h1{
+
+	 text-align: center;
+}
+
+.myClass h5{
+
+	 text-align: center;
+}
+
+.myClass h3 {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #999;
+}
+
+
+.myClass p{
+	
+	 font-style: italic;
+	
+}
